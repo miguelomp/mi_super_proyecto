@@ -7,6 +7,10 @@ esta es una breve descripcion
 - quiero que haga a
 - quiero que haga b
 - quiero que haga c
+- quiero que haga d
+- quiero que haga e
+- quiero que haga f
+- quiero que haga f
 
 ## requerimientos
 
